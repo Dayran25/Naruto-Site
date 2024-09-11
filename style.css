@@ -1,0 +1,51 @@
+.container {
+
+    width: 80%;
+    margin: 0% auto;
+}
+
+.texto-destaque{
+
+    color: darkorange;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+.menu li:hover .submenu {
+    display: block;
+
+
+
+}
+
+
+
+.submenu li:hover .submenu {
+    
+    list-style: none;
+    position: absolute;
+    top: 100%
+    left 0;
+    margin: 0;
+    padding: 5px 10px;
+    display: none;
+    display: block;
+    background-color: rgb(252, 25, 9);
+    
+    
+
+
+}
+
+
+
+
+    
+
+
